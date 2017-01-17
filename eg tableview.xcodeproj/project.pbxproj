@@ -15,6 +15,7 @@
 		845A4C1C1E2EB98B00C19D30 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 845A4C1A1E2EB98B00C19D30 /* LaunchScreen.storyboard */; };
 		845A4C271E2EB98B00C19D30 /* eg_tableviewTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 845A4C261E2EB98B00C19D30 /* eg_tableviewTests.m */; };
 		845A4C321E2EB98B00C19D30 /* eg_tableviewUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 845A4C311E2EB98B00C19D30 /* eg_tableviewUITests.m */; };
+		845A4C401E2EBF5C00C19D30 /* shareImg.png in Resources */ = {isa = PBXBuildFile; fileRef = 845A4C3F1E2EBF5C00C19D30 /* shareImg.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		845A4C2D1E2EB98B00C19D30 /* eg tableviewUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "eg tableviewUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		845A4C311E2EB98B00C19D30 /* eg_tableviewUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = eg_tableviewUITests.m; sourceTree = "<group>"; };
 		845A4C331E2EB98B00C19D30 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		845A4C3F1E2EBF5C00C19D30 /* shareImg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = shareImg.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				845A4C0F1E2EB98B00C19D30 /* AppDelegate.h */,
 				845A4C101E2EB98B00C19D30 /* AppDelegate.m */,
 				845A4C121E2EB98B00C19D30 /* ViewController.h */,
+				845A4C3F1E2EBF5C00C19D30 /* shareImg.png */,
 				845A4C131E2EB98B00C19D30 /* ViewController.m */,
 				845A4C151E2EB98B00C19D30 /* Main.storyboard */,
 				845A4C181E2EB98B00C19D30 /* Assets.xcassets */,
@@ -252,6 +255,7 @@
 				845A4C1C1E2EB98B00C19D30 /* LaunchScreen.storyboard in Resources */,
 				845A4C191E2EB98B00C19D30 /* Assets.xcassets in Resources */,
 				845A4C171E2EB98B00C19D30 /* Main.storyboard in Resources */,
+				845A4C401E2EBF5C00C19D30 /* shareImg.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
